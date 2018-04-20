@@ -1,0 +1,5 @@
+1 = film
+2 = koncert
+3 = fordrag
+4 = oplæsning
+5 = udstilling

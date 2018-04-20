@@ -1,0 +1,133 @@
+	.event {
+		padding: 0;
+	}
+
+	.event div {
+		padding: 0;
+	}
+
+	.event img {
+		width: -webkit-fill-available;
+	}
+
+	.display {
+		display: block !important;
+	}
+
+	.sal {
+		display: none;
+		background-color: black;
+		text-align: center;
+		padding: 50px 0 20px 0;
+	}
+
+	.seat {
+		display: inline-block;
+		width: 30px;
+		height: 30px;
+		margin: 5px;
+	}
+
+	.input {
+		margin-bottom: 10px;
+		border-radius: 5px;
+		height: 40px;
+		border: 1px solid;
+		box-shadow: 0px 4px 7px;
+		outline: none;
+		font-size: 20px;
+		padding-left: 5px;
+	}
+
+	.seat.free {
+		background-color: darkolivegreen;
+	}
+
+	.seat.taken {
+		background-color: firebrick;
+	}
+
+	.seat.chose {
+		background-color: cadetblue;
+	}
+
+	.seat.free:hover {
+		background-color: #395439;
+	}
+
+	.læred {
+		height: 50px;
+		background-color: grey;
+		line-height: 50px;
+		text-align: center;
+		color: white;
+		font-size: 30px;
+	}
+
+	.række {
+		margin: 0;
+		padding: 0;
+		height: 40px;
+	}
+
+	.btn {
+		width: fit-content;
+		height: 30px;
+		line-height: 20px;
+		font-size: 20px;
+		position: absolute;
+		right: 5px;
+	}
+
+	textarea {
+		width: -webkit-fill-available;
+		height: 200px !important;
+	}
+
+	a {
+		color: blue;
+	}
+
+	.btn.btn-danger {
+		bottom: 5px;
+	}
+
+	.spacer {
+		height: 25px;
+	}
+
+	body {
+		background-color: #7E7C7C
+	}
+
+	.process {
+		background-color: #5A5A5A;
+		color: whitesmoke;
+	}
+
+	.begivenhedTitle {
+		background-color: white;
+		color: black;
+	}
+
+	.info p {
+		font-size: smaller;
+	}
+
+	.info {
+		background-color: #d7d7d7;
+		max-height: 180px;
+		min-height: 180px;
+	}
+
+	.events {
+		padding: 0;
+	}
+
+	#sorter {
+		background-color: #595959;
+	}
+
+	input {
+		width: -webkit-fill-available;
+	}
