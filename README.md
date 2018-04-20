@@ -15,3 +15,10 @@ Det virker nu, ihvertfald på min, så håber også det virker på jeres...
 
 Jeg vil gerne snakkke med en lærer hvis jeg får en dårlig karakter baseret på mit projekt FOR JEG HAR GRÆDT for det her lort!  
 Og det kan umuligt være min skyld at jeg har en fejl som har noget med min pc og gøre og ikke mine scripts..  
+
+
+# LÆS!!!!!!!
+### EDIT: 
+Forsiden havde ikke noget link til at hoppe ned til plads select, så der skal scrolles når der klikkes på arengement knappen
+Det er lige nedenunder 
+
